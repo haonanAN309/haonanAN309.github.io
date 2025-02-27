@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Decoder Gradient Shield: Provable and High-Fidelity Prevention of Gradient-Based Box-Free Watermark Removal"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
