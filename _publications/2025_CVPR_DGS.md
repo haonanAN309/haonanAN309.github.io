@@ -2,7 +2,7 @@
 title: "[CVPR 2025] Decoder Gradient Shield: Provable and High-Fidelity Prevention of Gradient-Based Box-Free Watermark Removal"
 collection: publications
 category: first_author
-permalink: /publication/2025-cvpr
+permalink: /publication/2025_CVPR_DGS
 excerpt: '**Haonan An**, Guang Hua, Zhengru Fang, Guowen Xu, Susanto Rahardja, Yuguang Fang'
 date: 2025-06-01
 ---
