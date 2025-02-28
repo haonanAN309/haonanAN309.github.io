@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Haonan's Homepage"
+title                    : "AN Haonan's Homepage"
 title_separator          : "-"
 name                     : &name "AN Haonan"
 description              : &description "A first year PhD student from CityUHK"
