@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "AN Haonan's Homepage"
+title                    : "Haonan An's Homepage"
 title_separator          : "-"
-name                     : &name "AN Haonan"
+name                     : &name "Haonan An"
 description              : &description "A first year PhD student from CityUHK"
 url                      : https://haonanAN309.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "haonanAN309/haonanAN309.github.io"
 author:
   # Biographic information
   avatar           : "ahn.png"
-  name             : "AN Haonan"
+  name             : "Haonan An"
   pronouns         : # example: "she/her"  
   bio              : "First year PhD student"
   location         : "Hong Kong, China"
