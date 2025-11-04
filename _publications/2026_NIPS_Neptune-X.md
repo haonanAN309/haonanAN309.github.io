@@ -1,9 +1,9 @@
 ---
-title: "[NIPS 2026] Neptune-X: Active X-to-Maritime Generation for Universal Maritime Object Detection"
+title: "[NIPS 2026 Spotlight] Neptune-X: Active X-to-Maritime Generation for Universal Maritime Object Detection"
 collection: publications
 category: Collaboration
 permalink: /publication/2026_NIPS_Neptune-X
-excerpt: 'Yu Guo, Shengfeng He, Yuxu Lu, Haonan An, Yihang Tao, Huilin Zhu, Jingxian Liu, Yuguang Fang'
+excerpt: 'Yu Guo, Shengfeng He, Yuxu Lu, **Haonan An**, Yihang Tao, Huilin Zhu, Jingxian Liu, Yuguang Fang'
 date: 2022025-09-25
 paperurl: 'https://neurips.cc/virtual/2025/loc/san-diego/poster/116049' 
 ---
