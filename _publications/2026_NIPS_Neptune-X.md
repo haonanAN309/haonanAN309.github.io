@@ -4,7 +4,7 @@ collection: publications
 category: Collaboration
 permalink: /publication/2026_NIPS_Neptune-X
 excerpt: 'Yu Guo, Shengfeng He, Yuxu Lu, **Haonan An**, Yihang Tao, Huilin Zhu, Jingxian Liu, Yuguang Fang'
-date: 2022025-09-25
+date: 2025-09-25
 paperurl: 'https://neurips.cc/virtual/2025/loc/san-diego/poster/116049' 
 ---
 
