@@ -4,4 +4,5 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-autumn-cs1302_python
 venue: "CityUHK"
+date: 2024
 ---
