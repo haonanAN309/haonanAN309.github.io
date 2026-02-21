@@ -3,7 +3,7 @@ title: "[CVPR 2025] Decoder Gradient Shield: Provable and High-Fidelity Preventi
 collection: publications
 category: first_author
 permalink: /publication/2025_CVPR_DGS
-excerpt: '**Haonan An**, Guang Hua, Zhengru Fang, Guowen Xu, Susanto Rahardja, Yuguang Fang'
+excerpt: '**Haonan An<sup>*</sup>**, Guang Hua<sup>*</sup>, Zhengru Fang, Guowen Xu, Susanto Rahardja, Yuguang Fang'
 date: 2025-06-01
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2025/html/An_Decoder_Gradient_Shield_Provable_and_High-Fidelity_Prevention_of_Gradient-Based_Box-Free_CVPR_2025_paper.html' 
 ---
