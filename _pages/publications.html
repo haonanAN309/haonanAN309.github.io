@@ -5,6 +5,69 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+/* Publication List Styling */
+.publication-list {
+  counter-reset: publication-counter;
+  list-style: none; /* Remove default numbering */
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.publication-list > li {
+  position: relative;
+  margin-bottom: 10px; /* More compact spacing */
+  padding-left: 30px; /* Space for the number */
+  counter-increment: publication-counter;
+}
+
+.publication-list > li::before {
+  content: "[" counter(publication-counter) "]";
+  position: absolute;
+  left: 0;
+  top: 2px; /* Align with first line */
+  font-weight: bold;
+  color: #555;
+}
+
+/* Compact Typography for Publications */
+.publication-list .archive__item-title {
+  font-size: 1.1em; /* Smaller title */
+  margin-bottom: 2px;
+  margin-top: 0;
+  display: inline; /* Keep title inline with badge */
+}
+
+.publication-list .archive__item-excerpt {
+  font-size: 0.9em; /* Smaller authors/text */
+  margin-top: 0;
+  margin-bottom: 4px;
+  line-height: 1.4;
+}
+
+.publication-list .archive__item-teaser {
+  display: none; /* Hide teaser images for compactness if desired, or keep it */
+}
+
+/* CCF Badge Styling */
+.ccf-badge {
+  display: inline-block;
+  padding: 1px 6px;
+  font-size: 0.75em;
+  font-weight: bold;
+  border-radius: 4px;
+  margin-left: 8px;
+  vertical-align: middle;
+  color: white;
+  line-height: 1.2;
+}
+
+.ccf-a { background-color: #d9534f; } /* Red */
+.ccf-b { background-color: #f0ad4e; } /* Orange */
+.ccf-c { background-color: #5bc0de; } /* Blue */
+.ccf-none { display: none; }
+</style>
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
@@ -15,21 +78,35 @@ author_profile: true
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
+    {% assign ol_opened = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
+        <ol class="publication-list">
         {% assign title_shown = true %}
+        {% assign ol_opened = true %}
       {% endunless %}
+      
+      <li>
       {% include archive-single.html %}
+      </li>
     {% endfor %}
+    
+    {% if ol_opened %}
+      </ol>
+    {% endif %}
   {% endfor %}
 {% else %}
+  <ol class="publication-list">
   {% for post in site.publications reversed %}
+    <li>
     {% include archive-single.html %}
+    </li>
   {% endfor %}
+  </ol>
 {% endif %}
 
 

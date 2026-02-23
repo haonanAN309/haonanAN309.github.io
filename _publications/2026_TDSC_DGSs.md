@@ -1,5 +1,6 @@
 ---
 title: "[TDSC 2026] Decoder Gradient Shields: A Family of Provable and High-Fidelity Methods Against Gradient-Based Box-Free Watermark Removal"
+ccf: A
 collection: publications
 category: first_author
 permalink: /publication/2026_TDSC_DGSs

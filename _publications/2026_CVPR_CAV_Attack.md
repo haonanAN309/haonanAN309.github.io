@@ -1,5 +1,6 @@
 ---
 title: "[CVPR 2026] Learning Mutual View Information Graph for Adaptive Adversarial Collaborative Perception"
+ccf: A
 collection: publications
 category: Collaboration
 permalink: /publication/2026_CVPR_CAV_Attack

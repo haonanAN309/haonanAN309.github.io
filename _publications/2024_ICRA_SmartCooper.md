@@ -1,5 +1,6 @@
 ---
 title: "[ICRA 2024] SmartCooper: Vehicular Collaborative Perception with Adaptive Fusion and Judger Mechanism"
+ccf: B
 collection: publications
 category: Collaboration
 permalink: /publication/2024_ICRA_SmartCooper

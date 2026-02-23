@@ -1,5 +1,6 @@
 ---
 title: "[TMC 2024] PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles"
+ccf: A
 collection: publications
 category: Collaboration
 permalink: /publication/2024_TMC_PACP

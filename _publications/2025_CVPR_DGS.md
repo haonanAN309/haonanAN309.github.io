@@ -1,5 +1,6 @@
 ---
 title: "[CVPR 2025] Decoder Gradient Shield: Provable and High-Fidelity Prevention of Gradient-Based Box-Free Watermark Removal"
+ccf: A
 collection: publications
 category: first_author
 permalink: /publication/2025_CVPR_DGS

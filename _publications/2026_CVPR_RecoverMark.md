@@ -1,5 +1,6 @@
 ---
 title: "[CVPR 2026] RecoverMark: Robust Watermarking for Localization and Recovery of Manipulated Faces"
+ccf: A
 collection: publications
 category: first_author
 permalink: /publication/2026_CVPR_RecoverMark

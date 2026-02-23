@@ -1,5 +1,6 @@
 ---
 title: "[GLOBECOM 2024] Adaptive communications in collaborative perception with domain alignment for autonomous driving"
+ccf: C
 collection: publications
 category: Collaboration
 permalink: /publication/2024_GLOBECOM

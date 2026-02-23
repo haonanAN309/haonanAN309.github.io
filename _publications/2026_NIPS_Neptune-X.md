@@ -1,5 +1,6 @@
 ---
 title: "[NIPS 2026 Spotlight] Neptune-X: Active X-to-Maritime Generation for Universal Maritime Object Detection"
+ccf: A
 collection: publications
 category: Collaboration
 permalink: /publication/2026_NIPS_Neptune-X
