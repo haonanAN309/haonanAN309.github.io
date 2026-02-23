@@ -4,7 +4,7 @@ ccf: A
 collection: publications
 category: first_author
 permalink: /publication/2026_CVPR_RecoverMark
-excerpt: '**Haonan An**, Ye Xiaohui, Guang Hua, Yihang Tao, Hangcheng Cao, Xiangyu Yu, Yuguang Fang'
+excerpt: '**Haonan An**, Xiaohui Ye, Guang Hua, Yihang Tao, Hangcheng Cao, Xiangyu Yu, Yuguang Fang'
 date: 2026-02-21
 paperurl: '' 
 ---
