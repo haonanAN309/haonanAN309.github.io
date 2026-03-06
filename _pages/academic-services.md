@@ -13,6 +13,8 @@ author_profile: true
 *   IEEE Signal Processing Letters (SPL)
 *   IEEE Transactions on Dependable and Secure Computing (TDSC)
 *   ACM Transactions on Cyber-Physical Systems (TCPS)
+*   KSII Transactions on Internet and Information Systems (TIIS)
+*   IEEE Transactions on Information Forensics and Security (TIFS)
 
 ### Conferences
 *   AAAI Conference on Artificial Intelligence (AAAI): 2025, 2026
