@@ -1,5 +1,5 @@
 ---
-title: "[TDSC 2026]GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection"
+title: "[TDSC 2026] GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection"
 ccf: A
 collection: publications
 category: Collaboration
