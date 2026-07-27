@@ -16,6 +16,7 @@ author_profile: true
 *   IEEE Signal Processing Letters (SPL)
 *   ACM Transactions on Cyber-Physical Systems (TCPS)
 *   KSII Transactions on Internet and Information Systems (TIIS)
+*   Journal of King Saud University Computer and Information Sciences
 
 
 ### Conferences
