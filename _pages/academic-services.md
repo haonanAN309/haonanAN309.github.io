@@ -12,7 +12,7 @@ author_profile: true
 ### Journals
 *   IEEE Transactions on Information Forensics and Security (TIFS)
 *   IEEE Transactions on Dependable and Secure Computing (TDSC)
-*   IEEE/ACM Transactions on Networking
+*   IEEE/ACM Transactions on Networking (ToN)
 *   IEEE Internet of Things Journal (IoTJ)
 *   IEEE Signal Processing Letters (SPL)
 *   ACM Transactions on Cyber-Physical Systems (TCPS)
