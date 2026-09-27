@@ -16,6 +16,9 @@ main:
 
   - title: "Academic Services"
     url: /academic-services/ 
+
+  - title: "Honors & Awards"
+    url: /honors-awards/ 
     
   # - title: "Portfolio"
   #   url: /portfolio/
