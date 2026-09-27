@@ -1,5 +1,5 @@
 ---
-title: "[NIPS 2026 Spotlight] Neptune-X: Active X-to-Maritime Generation for Universal Maritime Object Detection"
+title: "[NeurIPS 2025 Spotlight] Neptune-X: Active X-to-Maritime Generation for Universal Maritime Object Detection"
 ccf: A
 collection: publications
 category: Collaboration
