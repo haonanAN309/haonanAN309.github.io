@@ -11,6 +11,8 @@ I am a third-year PhD student in the Department of Computer Science at City Univ
 
 ## News
 
+* **Sep. 2026** — 🎉 1 paper has been accepted by NeurIPS'26! Congratulations to Yihang!
+
 * **Sep. 2026** — Awarded the Research Tuition Scholarship (RTS) by City University of Hong Kong.
 
 
